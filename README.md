@@ -1,5 +1,9 @@
 # Ramen Rater
 
+notes: 
+- Test a closure approach
+
+
 Today you'll be building an app for rating ramen. You will be using a local API and building out the frontend for our app.
 
 ## Demo
