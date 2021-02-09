@@ -1,5 +1,10 @@
 # Ramen Rater
 
+- Weird Refresh?
+
+- 2nd deliverable? 
+- Updating the text input in patch request (updating database)
+
 Today you'll be building an app for rating ramen. You will be using a local API and building out the frontend for our app.
 
 ## Demo
